@@ -4,6 +4,6 @@ public interface salary {
 
     public int sumSalary = 0;
 
-    public int  intSalary();
+    public int intSalary();
 
 }
